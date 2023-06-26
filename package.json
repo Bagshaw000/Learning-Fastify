@@ -1,0 +1,15 @@
+{
+  "name": "Learning-Fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bagshaw000/Learning-Fastify.git",
+  "author": "Omieibi Bagshaw <122730557+BagshawKP@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
